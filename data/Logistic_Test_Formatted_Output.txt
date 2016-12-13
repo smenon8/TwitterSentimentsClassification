@@ -1,0 +1,25 @@
+Group name: Sreejith Menon, Rajan Bhandari
+
+Results using Logistic Regression
+
+--Obama--
+Overall Acurracy :  0.554074833419
+
+Precision of positive class: 0.581854
+Recall of positive class: 0.506873
+F1-Score of positive class: 0.541781
+
+Precision of negative class: 0.570081
+Recall of negative class: 0.614826
+F1-Score of negative class: 0.591608
+
+--Romney--
+Overall Acurracy :  0.610526315789
+
+Precision of positive class: 0.695000
+Recall of positive class: 0.361039
+F1-Score of positive class: 0.475214
+
+Precision of negative class: 0.618010
+Recall of negative class: 0.886458
+F1-Score of negative class: 0.728284

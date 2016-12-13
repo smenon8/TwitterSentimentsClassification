@@ -1,0 +1,22 @@
+Starting feature generation steps __main__
+Feature generation complete __main__
+
+Cross validation started __main__
+Total training & 10 fold cross validation time: 657.689 s
+Iteration 1: score = 0.593640
+Iteration 2: score = 0.531802
+Iteration 3: score = 0.502655
+Iteration 4: score = 0.553982
+Iteration 5: score = 0.557522
+Iteration 6: score = 0.542553
+Iteration 7: score = 0.517730
+Iteration 8: score = 0.466312
+Iteration 9: score = 0.546099
+Iteration 10: score = 0.547069
+
+Overall Acurracy :  0.535954658165
+Precision :  [ 0.44981413  0.55797733  0.43076923]
+Recall :  [ 0.22511628  0.88520055  0.13341275]
+F1-Score :  [ 0.300062    0.68449198  0.20372897]
+Cross validation completed __main__
+
